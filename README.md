@@ -9,7 +9,8 @@ https://amiteshstockexchangefrontend.herokuapp.com/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Open the link given Above.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. If you are a new user, go on sign up page and register yourself. Give your role as user.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. If you want the admin access, make sure you put role as admin.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. In the signin page, give your username and password to login and traverse thorugh the different functionalities of website.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. In the signin page, give your username and password to login.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Navigate through different sections in the website.<br />
 <br />
 <br />
 --> On the Local Machine:<br />
